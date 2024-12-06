@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="enter">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="sum">Sum</string>
+</resources>
